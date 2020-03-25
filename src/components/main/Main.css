@@ -1,0 +1,22 @@
+.my-card {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.margin-right {
+    margin-right: 1em;
+}
+
+.margin-top {
+    margin-top: 1em;
+}
+
+.user-img {
+    width: 100%;
+    border-radius: 3%;
+    margin-top: 1em;
+}
+
+.float-right {
+    float: right;
+}
